@@ -1,3 +1,3 @@
 # -GAME
 
-simple game in which CSS JAVASCRIPT used in html document.
+simple game in which CSS JAVASCRIPT used in html
