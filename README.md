@@ -1,3 +1,3 @@
-# -Rock_Paper_Scissors-GAME
+# -GAME
 
 simple game in which CSS JAVASCRIPT used in html document.
