@@ -1,3 +1,3 @@
 # -GAME
 
-simple game in which CSS JAVASCRIPT used in html
+it is simple rock paper scissors Game in which css ,javascript 
