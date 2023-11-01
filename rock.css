@@ -1,0 +1,46 @@
+
+.container{
+  background-color:black;
+  padding: 56px;
+  width:500px;
+  margin-inline: auto;
+  margin-top: 30px;
+  box-shadow: 5px 5px 2px rgb(8, 162, 239), 10px 10px 2px rgb(226, 9, 9), 15px 15px 2px rgb(136, 18, 157);
+}
+body{
+  background-color: rgb(17, 231, 17);
+  color: white;
+  font-family: Arial;
+}
+.title{
+font-size:30px;
+font-weight: bold;
+
+}
+.image{
+height: 50px;
+}
+.move-button{
+background-color: transparent;
+padding:30px;
+border: 3px solid white;
+border-radius: 60px ;
+cursor: pointer;
+
+}
+.reset{
+background-color: aquamarine;
+padding: 10px;
+border-radius:none;
+box-shadow:2px 2px rgb(206, 201, 201);
+cursor: pointer;
+}
+.result{
+font-size: 25px;
+font-weight:bold;
+margin-top: 50px;
+
+}
+.score{
+margin-top: 50px;
+}
